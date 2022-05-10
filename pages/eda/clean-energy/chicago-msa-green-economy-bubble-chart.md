@@ -6,7 +6,10 @@ permalink: /eda/clean-energy/chicago-msa-green-economy-bubble-chart
 
 <iframe src="/htmlwidgets/chicago-msa-green-economy-bubble-chart.html" height="540px" width="100%" style="border:none;"></iframe>
 
-<details><summary markdown='span'/><h4>How to use this tool</h4></summary>
+<details>
+<summary>
+<h4>How to use this tool</h4>
+</summary>
 
 The interactive bubble chart is a tool that can be used to explore the Chicago MSA’s Green Economy industries. The following is a guide for how to read and use the chart. Firstly, the color of the bubble represents what Green Economy subcategory the industry is in: Energy Efficiency, Clean Energy Production, or Environmental Management. The size of each bubble on the chart is relative to the number of jobs in that industry; the larger the bubble, the higher number of jobs in that industry. The x-axis represents the percentage change in number of jobs between 2011 and 2020. The farther right a bubble falls on the x-axis, the more that industry has grown. This does not necessarily mean that this industry has more jobs than another industry, simply that relative to 2011, its 2020 employment total has grown at a greater rate. Conversely, bubbles on the left side of the graph represent industries that have lost jobs since 2011. Finally, the y-axis represents an industry's location quotient, or the concentration of jobs within a specific local industry as compared to the United States as a whole. A location quotient above one means that there is local specialization in that industry, whereas a location quotient below one means that that industry is considered weak. 
 <br>

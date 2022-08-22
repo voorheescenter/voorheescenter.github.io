@@ -16,3 +16,8 @@ In line with the EDA mission, the [EDA Center @ UIC's](https://edauniversitycent
 
 * 2022 - [Chicago MSA's Green Economy Industries](/eda/clean-energy/chicago-msa-green-economy-bubble-chart)
   + Interactive bubble chart that plots the job growth from 2011-2020 (x-axis) versus the relative concentration of that sector in Chicago compared to the USA (y-axis) for the 82 industries that make up the green economy.
+
+#### Workforce Development
+
+* 2022 - [Chicago MSA's Green Economy Occupations](/eda/workforce-development/green-economy-one-pagers)
+  + Interactive table that offers one-pager fact sheets for 264 of the 320 occupations in the Green Economy, documenting information on Job Zones, technologies, certifications, employment, and the main tasks associated with the job.

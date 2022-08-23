@@ -73,4 +73,4 @@ Download all One-Pagers [(PDF)](https://voorheescenter.github.io/download/eda/wo
 </i></b>
 <br>
 <!--- Link to table saved as a widget for website display -->
-<iframe src="/htmlwidgets/occupation-one-pager-front-end-table.html" width="100%" style="border:none;"></iframe>
+<iframe src="/htmlwidgets/occupation-one-pager-front-end-table.html" height="800px" width="100%" style="border:none;"></iframe>

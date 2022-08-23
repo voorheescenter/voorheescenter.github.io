@@ -16,9 +16,7 @@ The final steps to update the website, you need to transfer over 3 files:
 
 The U.S. economy is in the process of transitioning from conventional energy sources to renewable energy production and usage. Supported by shifting market forces and partially assisted by public policy, significant portions of the American economy are shifting away from carbon-intensive, fossil fuel driven activities toward cleaner, more efficient, and higher-output ones. As noted by the Brookings Institution report ‘Advancing Inclusion Through Clean Energy Jobs (2019)’, the labor associated with the clean energy economy ranges from assembly-line workers manufacturing energy-saving products to tradesman constructing energy-efficient buildings to technicians operating renewable energy facilities. The projected expansion of the clean energy sector has significant implications on regional labor markets.
 
-The Brookings Institute identified 320 unique occupations in 11 Major Groups that comprise the Green Economy. The different occupations that make up the Green Economy are incredibly broad, ranging from skilled manufacturers and technicians to financial and business support services. 
-
-Additional information on Brookings' methodology is available [here](https://www.brookings.edu/wp-content/uploads/2019/04/2019.04_metro_Clean-Energy-Jobs_Report_Muro-Tomer-Shivaran-Kane_updated.pdf). The Voorhees Center also produced a report evaluating the strength of these Green Economy industries in the Chicago Region that you can find [here](https://uofi.app.box.com/s/otysmqubv39nvpzdq17cdz5trpm5mqoh).
+The Brookings Institute identified 320 unique occupations in 11 Major Groups that comprise the Green Economy. The different occupations that make up the Green Economy are incredibly broad, ranging from skilled manufacturers and technicians to financial and business support services. Additional information on Brookings' methodology is available [here](https://www.brookings.edu/wp-content/uploads/2019/04/2019.04_metro_Clean-Energy-Jobs_Report_Muro-Tomer-Shivaran-Kane_updated.pdf). The Voorhees Center also produced a report evaluating the strength of these Green Economy industries in the Chicago Region that you can find [here](https://uofi.app.box.com/s/otysmqubv39nvpzdq17cdz5trpm5mqoh).
 
 ### One-Pager Content
 
@@ -39,4 +37,4 @@ Download all One-Pagers [(PDF)](https://voorheescenter.github.io/download/eda/wo
 </i></b>
 <br>
 <!--- Link to table saved as a widget for website display -->
-<iframe src="/htmlwidgets/occupation-one-pager-front-end-table.html" height="700px" width="100%" style="border:none;"></iframe>
+<iframe src="/htmlwidgets/occupation-one-pager-front-end-table.html" height="725px" width="100%" style="border:none;"></iframe>

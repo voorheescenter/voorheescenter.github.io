@@ -23,35 +23,48 @@ These one-pagers utilize the US Department of Labor's ONET Database, the nation'
 <b>Summary Box</b>
 <br>
 
-*  <b>Occupation Title and SOC Code</b> that is formally used by ONET
-*  <b>Green Economy Icons</b> to indicate whether an occupation falls within one or more of the subcategories:
-    +  <b>Clean Energy Production (Solar Panel)</b> includes clean energy generation, transmission, and distribution.
-    +  <b>Energy Efficiency (Batteries)</b> includes manufacturing of energy-efficient products, construction of energy-efficient buildings, and provision of energy-efficient services.
-    +  <b>Environmental Management (Leaf)</b> includes environmental management, conservation, and regulation.
-*  <b>Description</b> of the general occupation.
-*  <b>Other Resources</b> links to the complete set of data present in ONET.
+<ul>
+<li><b>Occupation Title and SOC Code</b> that is formally used by ONET</li>
+<li><b>Green Economy Icons</b> to indicate whether an occupation falls within one or more of the subcategories:
+  <ul>
+    <li><b>Clean Energy Production (Solar Panel)</b> includes clean energy generation, transmission, and distribution.</li>
+    <li><b>Energy Efficiency (Batteries)</b> includes manufacturing of energy-efficient products, construction of energy-efficient buildings, and provision of energy-efficient services.</li>
+    <li><b>Environmental Management (Leaf)</b> includes environmental management, conservation, and regulation.</li>
+  </ul>
+</li>
+<li><b>Description</b> of the general occupation.</li>
+<li><b>Other Resources</b> links to the complete set of data present in ONET.</li>
+</ul>
 
 <b>Job Title Examples</b>
 <br>
 
-*  A sample of the job titles that people currently employed in the occupation hold.
+<ul>
+<li>A sample of the job titles that people currently employed in the occupation hold.</li>
+</ul>
 
 <b>Job Zone</b>
 <br>
 
-*  <b>Preparation, Education, Experience and Training</b> levels required for the occupation.
-*	 <b>Core Certifications and Hot Technologies (If Available)</b> that are frequently included in employer job postings.
+<ul>
+<li><b>Preparation, Education, Experience and Training</b> levels required for the occupation.</li>
+<li><b>Core Certifications and Hot Technologies (If Available)</b> that are frequently included in employer job postings.</li>
+</ul>
 
 <b>Employment and Wages (Chicago MSA, IL, USA – If Available)</b>
 <br>
 
-*  <b>Summary Table</b> showing the employment totals, location quotient, and median wage across the United States, Illinois, and the Chicago MSA (if available). A location quotient greater than 1 indicates the region has a higher concentration in that occupation than the nation.
-*  <b>Wage Distribution Chart</b> showing the 10th Percentile, 50th (Median), and 90th Percentile of wages across each region (if available).
+<ul>
+<li><b>Summary Table</b> showing the employment totals, location quotient, and median wage across the United States, Illinois, and the Chicago MSA (if available). A location quotient greater than 1 indicates the region has a higher concentration in that occupation than the nation.</li>
+<li><b>Wage Distribution Chart</b> showing the 10th Percentile, 50th (Median), and 90th Percentile of wages across each region (if available).</li>
+</ul>
 
 <b>Core Tasks</b>
 <br>
 
-*  <b>Top 5 Core Tasks</b> of the given occupation according to current job holders. Frequency is translated from the survey instrument scale of 1 (Yearly or Less) to 7 (Hourly or More). Importance of the Task is translated from 1 (Not Important) to 5 (Extremely Important).
+<ul>
+<li><b>Top 5 Core Tasks</b> of the given occupation according to current job holders. Frequency is translated from the survey instrument scale of 1 (Yearly or Less) to 7 (Hourly or More). Importance of the Task is translated from 1 (Not Important) to 5 (Extremely Important).</li>
+</ul> 
  
 </details>
 <br>

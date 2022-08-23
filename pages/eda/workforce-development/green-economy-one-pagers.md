@@ -55,7 +55,7 @@ These one-pagers utilize the US Department of Labor's ONET Database, the nation'
 <br>
 
 <ul>
-<li><b>Summary Table</b> showing the employment totals, location quotient, and median wage across the United States, Illinois, and the Chicago MSA (if available). A location quotient greater than 1 indicates the region has a higher concentration in that occupation than the nation.</li>
+<li><b>Summary Table</b> showing the employment totals, location quotient, and median wage across the United States, Illinois, and the Chicago MSA for 2021 (if available). A location quotient greater than 1 indicates the region has a higher concentration in that occupation than the nation.</li>
 <li><b>Wage Distribution Chart</b> showing the 10th Percentile, 50th (Median), and 90th Percentile of wages across each region (if available).</li>
 </ul>
 

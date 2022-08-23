@@ -32,7 +32,7 @@ The table can be used to sort and search for different occupations and view each
 Each column title can be sorted ascending or descending by click on the title or the arrows next to them. The search button in the top right can be used to search for any specific piece of information. The buttons in the top left can be used to copy or download the contents of the table to another format. Below each column title, the search bars can be used to filter specific columns. For example, by searching in the "Education Needed" column for High School Diploma, the 97 occupations that require a minimum of a High School Diploma are returned (note, this can also be achieved by using the search bar in the top right). Finally, clicking on any occupation opens up the associated one-pager.  
 <br>
 <b style='font-size:14pt;'><i>
-Download all One-Pagers [(PDF)](https://voorheescenter.github.io/download/eda/workforce-development/occupation-one-pagers/All Green Economy Occupation One-Pagers.pdf)
+Download all one-pagers [(PDF)](https://voorheescenter.github.io/download/eda/workforce-development/occupation-one-pagers/All Green Economy Occupation One-Pagers.pdf)
 </i></b>
 <br>
 <!--- Link to table saved as a widget for website display -->

@@ -22,7 +22,7 @@ The Brookings Institute identified 320 unique occupations in 11 Major Groups tha
 
 The table below allows you to download one-pagers summarizing key information about Green Economy occupations in the Chicago Region. These one-pagers utilize the US Department of Labor’s ONET Database, the nation’s main source for occupational data, and the Bureau of Labor Statistics' (BLS) Occupational Employment and Wage Statistics (OEWS), which provides annual employment and wage estimates. Detailed economic data from OEWS are available for 264 of the 320 occupations in the Green Economy (83%), documenting information on Job Zones, technologies, certifications, employment, and the main tasks associated with the job.
 
-<b style='font-size:12pt;'><i>Learn how to read these one-pagers [(PDF)](https://voorheescenter.github.io/download/eda/workforce-development/occupation-one-pagers-how-to)
+<b style='font-size:12pt;'><i>Learn how to read these one-pagers [(PDF)](https://voorheescenter.github.io/download/eda/workforce-development/occupation-one-pagers-how-to.pdf)
 </i></b>
 
 ### Explore One-Pagers
